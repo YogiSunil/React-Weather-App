@@ -1,0 +1,22 @@
+.weather-container {
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .rainy {
+    background-color: #a4c6f5; /* Light blue */
+  }
+  
+  .clear {
+    background-color: #ffde00; /* Sunny yellow */
+  }
+  
+  .cloudy {
+    background-color: #b5b5b5; /* Cloudy gray */
+  }
+  
+  .default {
+    background-color: #f0f0f0; /* Default background */
+  }
+  
